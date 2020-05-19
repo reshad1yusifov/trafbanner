@@ -1457,3 +1457,6 @@ a.bg-absolute span{
 .portfolio-section{
     padding-bottom: 80px;
 }
+.tablet-padding-clear{
+    padding-right: 0;
+}
